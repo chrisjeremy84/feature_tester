@@ -305,3 +305,17 @@ class _MeetingState extends State<Meeting> {
     debugPrint("_onError broadcasted: $error");
   }
 }
+
+
+/*
+*  TODO:
+*   - The branch prototype.flutter.v2.1 has been mistakenly over written
+*   - Implement Firebase Authentication and Cloud_firestore
+*   - Test on both devices Physical (SAMSUNG S20FE) & (GOOGLE PIXEL 5)
+*   - Try to fix Iphone 12 issue and build upon that
+*   - Implement Calendar functionality
+*   - Implement messaging functionality
+*   - Implement notification functionality
+*   - Implement Firebase Functions and Cloud communication
+*
+* */
