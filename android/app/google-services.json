@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "423145174200",
+    "project_id": "psyred-75b59",
+    "storage_bucket": "psyred-75b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423145174200:android:71c84585770f49a5af304d",
+        "android_client_info": {
+          "package_name": "com.example.feature_tester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423145174200-0rp1cji7bsdolj4k6tlso96fbu46mhdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feature_tester",
+            "certificate_hash": "d7717507c9af8f5648996d7101e63fb429d328cf"
+          }
+        },
+        {
+          "client_id": "423145174200-ae5u8ft0i6k5qbgbvo75eb88hpfmkfiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8F-PhLrbJvk6ehGoM1-hdj80-FPGQyv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423145174200-ae5u8ft0i6k5qbgbvo75eb88hpfmkfiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423145174200:android:eb6616272987b613af304d",
+        "android_client_info": {
+          "package_name": "com.example.rtc_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423145174200-ae5u8ft0i6k5qbgbvo75eb88hpfmkfiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8F-PhLrbJvk6ehGoM1-hdj80-FPGQyv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423145174200-ae5u8ft0i6k5qbgbvo75eb88hpfmkfiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
