@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import './Screens/HomeScreen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,7 +24,11 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const HomeScreen(),
+      home: Scaffold(
+        body: Container(
+          child: Center(child: Text("Main Branch")),
+        ),
+      ),
     );
   }
 }
