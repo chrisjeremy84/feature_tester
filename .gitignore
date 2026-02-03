@@ -1,3 +1,10 @@
+#Supabase-secrets
+*.env
+
+
+
+
+
 # Logs
 logs
 *.log
